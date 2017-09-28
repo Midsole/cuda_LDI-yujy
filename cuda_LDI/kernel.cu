@@ -340,6 +340,7 @@ int main()
 
 
 
+
 	/**
 	//start CUDA initializing
 	cudaError_t cudaStatus;
